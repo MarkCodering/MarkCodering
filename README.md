@@ -3,7 +3,7 @@ I am a computer science student and Microsoft Learn Student Ambassador. My area 
 - Cloud Computing
 - Web and Application Development
 - Machine Learning and Deep Learning Applications
-- Rocket Control and Avionics System Development
+- Rocket Avionics System Development
 
 ## Developer Community Builder and Lead 
 I became a Microsoft Learn Student Ambassador in early 2021. My mission as an MLSA at Taiwan and my university is to spread the idea of "empowering everyone and organisation to achieve more with Microsoft technologies and beyond". To accomplish that vision, I collaborated with another talented Microsoft Ambassador from National Taiwan University. Together, I envision a future where people can be benefited from the technologies.
