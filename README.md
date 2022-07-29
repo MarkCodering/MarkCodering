@@ -1,9 +1,9 @@
 # About Mark
 
 ## What I Do in Three Sentences:
-- Co-found AI Consulting Company - [Theoretical AI](https://github.com/theoretical-ai) to Empower Businesses to Enable AI-powered Solutions
+- Found AI Consulting Company with Seth Harding Named - [Theoretical AI](https://github.com/theoretical-ai) to Empower Businesses to Enable AI-powered Solutions
 - Build Sounding Rockets to Reach the Sky in Kms with Real-time Operated Avionics System with [Space Technology Laboratory](https://github.com/TKU-STL)
-- Research on the Emerging Applications on Computer Science with [VISTA Simulator](https://github.com/vista-simulator/vista) to Accelerate the Development of Autonomous Vehicles
+- Research on the Emerging Applications on Computer Science and Autonomous Systems with [VISTA Simulator](https://github.com/vista-simulator/vista) to Accelerate the Development of Autonomous Vehicles
 
 ## My Development Trajectory:
 - Entrepreneurship to Innovate Theories into Practices
