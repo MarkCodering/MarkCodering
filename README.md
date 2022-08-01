@@ -1,7 +1,7 @@
 # About Mark
 
 ## What I Do in Three Sentences:
-- Found AI Consulting Company with Seth Harding Named - [Theoretical AI](https://github.com/theoretical-ai) to Empower Businesses to Enable AI-powered Solutions
+- Found AI Solution Company with Seth Harding - [dXdR](https://github.com/dxdr-ai) to Empower Businesses to Enable AI-powered Solutions
 - Build Sounding Rockets to Reach the Sky in Kms with Real-time Operated Avionics System with [Space Technology Laboratory](https://github.com/TKU-STL)
 - Research on the Emerging Applications on Computer Science and Autonomous Systems with [VISTA Simulator](https://github.com/vista-simulator/vista) to Accelerate the Development of Autonomous Vehicles
 
