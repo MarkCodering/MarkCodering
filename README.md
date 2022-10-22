@@ -10,11 +10,6 @@
 - Leading-Edge Research in Computer Science with Practical Solutions
 - Developer Community Building and Content Production - Share and Promote Positive Values
 
-## My Strategies to Accomplish What I Do:
-- Utilize Systematic Planning for Personal and Professional Life
-- Facilitate Effective Communications Between Stakeholders with Each Project
-- Exercise Growth Mindset, Deep Work, and Ultralearning into Everyday Life
-
 ## Technical Stack and Skills
 #### Web Development (Frontend)
 - React.js with Material UI
