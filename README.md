@@ -14,3 +14,20 @@
 - Utilize Systematic Planning for Personal and Professional Life
 - Facilitate Effective Communications Between Stakeholders with Each Project
 - Exercise Growth Mindset, Deep Work, and Ultralearning into Everyday Life
+
+## Technical Stack and Skills
+#### Web Development (Frontend)
+- React.js with Material UI
+- Next.js Framework with NEXT UI
+- Website Deployment with Vercel or Azure
+
+#### Embedded Systems (STM32 Platform)
+- Arduino Core with FreeRTOS
+- UART/I2C Communication Protocol
+- Real-time Application Development for Sounding Rocket Avionics
+
+#### Languages
+- JavaScript
+- Python
+- C/C++
+- Java
