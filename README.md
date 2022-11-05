@@ -5,8 +5,8 @@
 - Build Sounding Rockets to Reach the Sky in Kms with Real-time Operated Avionics System with [Space Technology Laboratory](https://github.com/TKU-STL)
 - Research on The Development of Quantum Machine Learning Algorithms with [NTU Quantum Research Group](https://github.com/ntu-quantum-finance)
 
-## My Development Trajectory:
-- Entrepreneurship - Innovate Theories into Practices
+## My Career Trajectories:
+- Entrepreneurship - Innovate Theories into Practices 
 - Leading-Edge Research in Computer Science with Practical Solutions
 - Developer Community Building and Content Production - Share and Promote Positive Values
 
