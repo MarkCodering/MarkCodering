@@ -11,18 +11,4 @@
 - Developer Community Building and Content Production - Share and Promote Positive Values
 
 ## Technical Stack and Skills
-#### Web Development (Frontend)
-- React.js with Material UI
-- Next.js Framework with NEXT UI
-- Website Deployment with Vercel or Azure
-
-#### Embedded Systems (STM32 Platform)
-- Arduino Core with FreeRTOS
-- UART/I2C Communication Protocol
-- Real-time Application Development for Sounding Rocket Avionics
-
-#### Languages
-- JavaScript
-- Python
-- C/C++
-- Java
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkCodering&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
