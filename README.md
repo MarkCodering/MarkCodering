@@ -1,7 +1,7 @@
 # About Mark
 
 ## What I Do in Three Sentences:
-- Lead an AI Solutions Company with Seth Harding - [DXDR](https://github.com/DXDR-AI) to Develop an AI-powered Solutions for Software Engineers
+- Lead an AI Start-up with Seth Harding - [DXDR](https://github.com/DXDR-AI) to Develop an AI-powered Application for Software Engineers
 - Co-lead the Development of ML-driven Search Engine for Knowledge Management - [SG-API](https://github.com/DXDR-AI/SG-API)
 - Research on The Development of Quantum Machine Learning Algorithms with [NTU Quantum Research Group](https://github.com/ntu-quantum-finance)
 
