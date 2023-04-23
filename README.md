@@ -1,8 +1,7 @@
 # About Mark
 
-## What I Do in Three Sentences:
+## What I Do?:
 - Lead an AI Start-up with Seth Harding - [DragonX](https://github.com/DragonX-AI) to Develop an AI-powered Application for Software Engineers
-- Co-lead the Development of ML-driven Search Engine for Knowledge Management - [SG-API](https://github.com/DXDR-AI/SG-API)
 - Research on The Development of Quantum Machine Learning Algorithms with [NTU Quantum Research Group](https://github.com/ntu-quantum-finance)
 
 ## My Career Trajectories:
