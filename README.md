@@ -1,7 +1,7 @@
 # About Mark
 
-## What are my focus right now?
-- Lead an AI Start-up with Seth Harding - [DragonX](https://github.com/DragonX-AI) to Develop an AI-powered Application for Software Engineers
+## What is my focus right now?
+- Led an AI Start-up with Seth Harding - [Tokai](https://github.com/TokaiApp) to Develop an AI-powered Application for Software Engineers
 - Research on The Development of Quantum Machine Learning Algorithms with [NTU Quantum Research Group](https://github.com/ntu-quantum-finance)
 
 ## My Career Trajectories:
