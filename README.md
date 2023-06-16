@@ -1,6 +1,6 @@
 # About Mark
 
-## What is my focus right now?
+## What are my focuses right now?
 - Led an AI Start-up with Seth Harding - [Tokai](https://github.com/TokaiApp) to Develop an AI-powered Application for Software Engineers
 - Research on The Development of Quantum Machine Learning Algorithms with [NTU Quantum Research Group](https://github.com/ntu-quantum-finance)
 - Develop novel neural network training with quantum and digital annealing methods
