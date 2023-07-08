@@ -12,4 +12,4 @@
 
 ## Status
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkCodering&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-[![GitHub Streak](https://streak-stats.demolab.com/MarkCodering)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MarkCodering)](https://git.io/streak-stats)
