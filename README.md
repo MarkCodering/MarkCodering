@@ -1,9 +1,9 @@
 # About Mark
-
+| Mission: Build something impactful that changes the world for the better
 ## What are my focuses right now?
 - Led an AI start-up with Seth Harding - [Tokai](https://github.com/TokaiApp) to develop an AI-powered application for software engineers
 - Research on the development of quantum machine learning algorithms with [NTU Quantum Research Group](https://github.com/ntu-quantum-finance)
-- Develop novel neural network training with quantum and digital annealing methods
+- Develop novel neural network training algorithms with quantum and digital annealing methods at [III Advanced Software Research](https://web.iii.org.tw/)
 
 ## My Career Trajectories:
 - Entrepreneurship - Innovate Theories into Practices 
