@@ -1,6 +1,36 @@
-# About Mark
-I’m building Mindify AI, an AI-powered advertising platform that helps deliver the right information at the right time. I love working at the intersection of AI, quantum computing, and product design—turning big, complex ideas into things people can actually use.
+# Mark Chen 🚀
 
-Along the way, I’ve published papers in AI and quantum machine learning, presented at international conferences, and even built the world’s first GPT-based quantum language model.
+Co-Founder & CEO @ **Mindify AI**  
+Computer Science @ University of London  
+AI Researcher · Agent Systems · Reasoning · Quantum ML
 
-When I’m not working on Mindify AI or my Computer Science degree at the University of London, I’m usually exploring new tech trends, learning something new, or finding ways to make ambitious ideas a reality.
+---
+
+### What I build
+- 🧠 **AI agents that think, act, and monetize**
+- 🔬 Research on **LLM reasoning**, **agentic workflows**, and **quantum-inspired ML**
+- 🛠️ Products that live at the intersection of **research ↔ real-world systems**
+
+---
+
+### Current focus
+- Mindify AI — monetization & infrastructure for AI agents  
+- Agent reasoning, evaluation, and tool-use  
+- Publishing & shipping in parallel
+
+---
+
+### Beliefs
+> Build → Learn → Iterate  
+> Agency beats scale. Clarity beats noise.
+
+---
+
+### Links
+- 🌐 https://www.mindifyai.dev
+- 🌐 https://www.markchen.io
+- 🧠 Research & writing: arXiv / Substack (WIP)
+
+---
+
+*Curious about intelligence. Obsessed with execution.*
