@@ -1,6 +1,6 @@
 # Mark Chen
 
-Co-Founder & CEO @ **Mindify AI**  
+Founder & CEO @ **Mindify AI**  
 Computer Science, University of London  
 Research: Machine Intelligence · Agent Systems · Reasoning · Quantum ML
 
